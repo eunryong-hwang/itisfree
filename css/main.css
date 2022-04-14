@@ -6,7 +6,138 @@
  * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
  * Kroc Camen, and the H5BP dev community and team.
  */
+@font-face {
+  font-family: 'Metropolis Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Regular'), url('../font/metropolis/Metropolis-Regular.woff') format('woff');
+}
 
+
+@font-face {
+  font-family: 'Metropolis Regular Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Regular Italic'), url('../font/metropolis/Metropolis-RegularItalic.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Extra Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Extra Light'), url('../font/metropolis/Metropolis-ExtraLight.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Light'), url('../font/metropolis/Metropolis-Light.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Thin';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Thin'), url('../font/metropolis/Metropolis-Thin.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Extra Light Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Extra Light Italic'), url('../font/metropolis/Metropolis-ExtraLightItalic.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Light Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Light Italic'), url('../font/metropolis/Metropolis-LightItalic.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Thin Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Thin Italic'), url('../font/metropolis/Metropolis-ThinItalic.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Medium';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Medium'), url('../font/metropolis/Metropolis-Medium.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Semi Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Semi Bold'), url('../font/metropolis/Metropolis-SemiBold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Bold'), url('../font/metropolis/Metropolis-Bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Bold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Bold Italic'), url('../font/metropolis/Metropolis-BoldItalic.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Medium Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Medium Italic'), url('../font/metropolis/Metropolis-MediumItalic.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Semi Bold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Semi Bold Italic'), url('../font/metropolis/Metropolis-SemiBoldItalic.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Extra Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Extra Bold'), url('../font/metropolis/Metropolis-ExtraBold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Extra Bold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Extra Bold Italic'), url('../font/metropolis/Metropolis-ExtraBoldItalic.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Metropolis Black';
+  font-style: normal;
+}
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
